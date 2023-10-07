@@ -47,7 +47,7 @@ The project also includes a messaging component through which researchers and ev
 
  ### Contributors
  - [Andrè Ramolivaz](https://github.com/andreramolivaz) 
- - [Simone Dinato](https://github.com/simonedinato) 
+ - [Alberto Tomasin](https://github.com/therealtoma) 
 
 
 ## Database Design
